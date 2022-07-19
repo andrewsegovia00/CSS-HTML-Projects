@@ -1,0 +1,38 @@
+body {
+    background-color: ;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.section1 {
+    height: 500px;
+    width: 50ssssss00px;
+    background-color: red;
+    display: flex;
+}
+
+.section1_2 {
+    height: 700px;
+    width: 400px;
+    background-color: none;
+    background: url(/images/phone\ background.jpg);
+    background-size: 500px;
+    border-radius: 30px;
+}
+
+.glass-class {
+    width: 300px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    background-color: green;
+}
+
+.first-box {
+    background-color: aliceblue;
+    width: 200px;
+    height: 200 px;
+    background-color: blue;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
